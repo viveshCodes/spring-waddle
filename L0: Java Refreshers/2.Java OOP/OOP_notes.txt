@@ -1,0 +1,56 @@
+1. What is Class?
+A class is a blueprint/template for creating objects.
+A class have fields(variables) and methods(functions).
+
+2. What is object?
+An object is an instance of a class.
+
+3. What is Encapsulation?
+Encapsulation is the first principle of OOP.It means to bundle the data and methods that operate on the data in a single unit.
+
+4.What is Abstraction?
+Abstraction is the second principle of OOP. It means to reduce complexity by hiding unnecessary details.
+Here, we hide the implementationn details of a class and treat it like a black box. 
+
+5. What is Coupling?
+The level of dependency between classes.There should be minimal coupling among the classes.
+
+6. What is Constructor?
+Constructor is a special method that we call when we create an object.
+
+7.What is inheritance?
+Inheritance is the third principle of OOP. It means to reuse the codebase by defining all the common behaviour in a common class(base/parent class) and then
+other classes inherit behaviour from the base class. 
+
+8.Is private fields and methods inherited?
+No, private fields and methods aren't inherited. We can't even access them from another class.
+Private fields and methods are used to hide the implementationn details of a class.
+
+9. What are the types of access modifiers?
+- public
+- private
+- protected (However, it's a bad practice to use protected modifier. It's basically a public modifier inside a package.) 
+- default access modifier (We don't specify the name her. It's public inside a package)
+
+10. What is Upcasting and Downcasting?
+Upcasting: Casting an object to one of its super types.
+Downcasting: Casting an object to one of its sub types.
+
+11. What is Polymorphism?
+It is the forth principle of OOP.It means an object can have many forms.Technically, we can define an array of objects.
+
+12.What do you mean by Abstract class and Abstract method?
+An abstract class cannot be instantiate. It can only be inherited/extended.
+
+When we declare an abstract method in a parent class, all the child class must implement that method.
+
+13. What is Final class and Final method?
+A final class cannot be extended. It prevents from using inheritance and polymorphism. So we should not use
+final class often.e.g We can't extend String class in Java.
+
+A final method cannot be overridden.
+
+14. Does Java support multiple inheritance?
+No, Java doesn't support multiple inheritance.
+
+

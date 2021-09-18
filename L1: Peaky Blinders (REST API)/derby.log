@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sat Sep 18 21:39:14 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017b-f9ab-3b35-000002b08600 
+on database directory memory:/home/vivesh/java-path/peaky-blinders/1cad491d-9b20-494a-a4e2-25d21044aa02 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/home/vivesh/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.1+9-24
+user.dir=/home/vivesh/java-path/peaky-blinders
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-156-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Sep 18 21:42:13 IST 2021:
+Shutting down instance a816c00e-017b-f9ab-3b35-000002b08600 on database directory memory:/home/vivesh/java-path/peaky-blinders/1cad491d-9b20-494a-a4e2-25d21044aa02 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
